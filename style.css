@@ -152,3 +152,40 @@ figcaption {
     color: #1f2937;   
 }
 
+/* Call to action */
+.fourth-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5em 13em;
+}
+
+.callto-action {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    padding: 3em;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.callto-action-button {
+    border: 2px solid #FFF;
+    padding: 7px 1em;
+    width: 150px;
+    background-color: #3882F6;
+    border-radius: 8px;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.callto-action-heading {
+    font-size: 24px;
+    color: #FFF;
+}
+
+.callto-action-caption {
+    font-size: 18px;
+    color: #E5E7EB;
+}
