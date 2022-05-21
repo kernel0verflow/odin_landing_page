@@ -189,3 +189,18 @@ figcaption {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+/* Footer */
+footer {
+    background-color: #1f2937;
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2em 0;
+}
+
+.footer-copyright {
+    font-size: 18px;
+    color: #E5E7EB;
+}
